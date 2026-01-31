@@ -1,3 +1,7 @@
+# Gaming App
+
+![Screenshot of Gaming App](https://github.com/Deekshap16/Gaming-App---UNO/blob/1023330979a439ac5d9f0dc544ce3c930da3360b/Screenshot%202026-01-31%20132647.png)
+
 # 🎴 Multiplayer Card Game (Juvo-Style)
 
 A real-time multiplayer card game built with React, Node.js, Socket.IO, and MongoDB. Players compete to be the first to discard all their cards using strategy and special action cards.
